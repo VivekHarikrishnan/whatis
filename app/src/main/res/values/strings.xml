@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WhatIs</string>
+    <string name="picture">Show me the meanings!</string>
+    <string name="captured">captured.jpg</string>
+</resources>
